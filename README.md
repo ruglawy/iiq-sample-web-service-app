@@ -15,7 +15,7 @@
 2. Clone the repository
 
    ```bash
-   git clone https://github.com/ruglawy/sample-web-service-app.git
+   git clone https://github.com/ruglawy/iiq-sample-web-service-app.git
    ```
     
 4. Install dependencies
